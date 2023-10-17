@@ -10,7 +10,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task3.V2.Test
         [TestMethod]
         public void CheckPurchase()
         {
-            DataService DataService = new DataService();
+            DataService DataService = new DataService ();
             double priceNotebook = 230.2;
             int amountNotebook = 5;
             double pricePencil = 78.4;
