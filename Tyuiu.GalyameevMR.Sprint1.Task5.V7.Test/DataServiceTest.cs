@@ -6,7 +6,7 @@ using Tyuiu.GalyameevMR.Sprint1.Task5.V7.Lib;
 namespace Tyuiu.GalyameevMR.Sprint1.Task5.V7.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public class  DataServiceTest
     {
         [TestMethod]
         public void CheckHours()
