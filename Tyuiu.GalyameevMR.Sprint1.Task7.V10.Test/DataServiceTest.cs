@@ -10,7 +10,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task7.V10.Test
         [TestMethod]
         public void Calc()
         {
-            DataService DataService = new DataService();
+            DataService DataService =  new DataService();
             double x = 1.5;          
             double result = DataService.Calculate(x);
             Assert.AreEqual(2.679, result);

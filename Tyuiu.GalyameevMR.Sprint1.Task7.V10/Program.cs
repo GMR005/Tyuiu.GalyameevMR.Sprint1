@@ -9,7 +9,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task7.V10
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[]  args)
         {
             DataService DataService = new DataService();
             Console.Title = "Спринт 1. Выполнил: Галямеев М.Р. | ПКТб-23-1";
