@@ -11,7 +11,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task5.V7.Test
         [TestMethod]
         public void CheckHours()
         {
-            DataService DataService =  new DataService();
+            DataService DataService =  new DataService ();
             double f = 62.3;
             int p = DataService.AngleToHoursMinutes(f);
             Assert.AreEqual(2, p);
