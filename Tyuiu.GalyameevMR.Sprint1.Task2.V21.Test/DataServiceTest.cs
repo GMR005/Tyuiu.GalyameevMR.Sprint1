@@ -14,7 +14,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task2.V21.Test
             double x = 2.0;
             double y = 3.0;
             var res = DataService.Calculate(x, y);
-            Assert.AreEqual(6.0, res);
+            Assert.AreEqual(6.0, res) ; 
         }
     }
 }
