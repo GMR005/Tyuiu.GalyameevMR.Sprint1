@@ -10,7 +10,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task4.V15.Test
         [TestMethod]
         public void CalcValid()
         {
-            DataService DataService = new DataService();
+            DataService DataService = new DataService(); 
             double x = 1.0;
             double y = 0.5;
             double p = DataService.Calculate(x, y);
