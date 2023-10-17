@@ -7,7 +7,7 @@ using Tyuiu.GalyameevMR.Sprint1.Task1.V19.Lib;
 
 namespace Tyuiu.GalyameevMR.Sprint1.Task1.V19
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
