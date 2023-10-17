@@ -6,7 +6,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.TaskReview.V16.Test
     [TestClass]
     public class DataServiceTest
     {
-        [TestMethod]
+        [TestMethod] 
         public void CheckCalc()
         {
             DataService DataService = new DataService();
