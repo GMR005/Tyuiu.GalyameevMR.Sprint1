@@ -67,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint1.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint1.Task0.V0.Test", "Tyuiu.GalyameevMR.Sprint1.Task0.V0.Test\Tyuiu.GalyameevMR.Sprint1.Task0.V0.Test.csproj", "{0C4CB2F3-1FDF-4C1D-85E3-8B8BF6A0CE60}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{A9084D36-469A-422A-8B93-CBF6D4BE515D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{A9084D36-469A-422A-8B93-CBF6D4BE515D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint1.Task1.V19", "Tyuiu.GalyameevMR.Sprint1.Task1.V19\Tyuiu.GalyameevMR.Sprint1.Task1.V19.csproj", "{FF667CA6-B081-472E-8BEC-7EC698101431}"
 EndProject
