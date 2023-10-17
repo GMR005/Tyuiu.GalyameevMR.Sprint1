@@ -10,7 +10,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task6.V12.Test
         [TestMethod]
         public void CheckWord()
         {
-            DataService DataService = new DataService();
+            DataService DataService = new DataService() ;
             string phrase = "hello world world world";
             bool result = DataService.CheckLastWordRepetiton(phrase);
             Assert.AreEqual(result, true);

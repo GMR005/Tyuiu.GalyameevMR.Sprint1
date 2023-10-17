@@ -9,7 +9,7 @@ namespace Tyuiu.GalyameevMR.Sprint1.Task6.V12.Lib
 {
     public class DataService : ISprint1Task6V12
     {
-        public bool CheckLastWordRepetiton(string value)
+        public bool CheckLastWordRepetiton(string value )
         {
 
             char[] separators = { ' ', ',', ';', '.', ':' };
