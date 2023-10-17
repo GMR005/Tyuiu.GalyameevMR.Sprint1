@@ -2,8 +2,7 @@
 using System;
 using Tyuiu.GalyameevMR.Sprint1.Task0.V0.Lib;
 
-namespace Tyuiu.GalyameevMR.Sprint1.Task0.V0.Test
-{
+namespace Tyuiu.GalyameevMR.Sprint1.Task0.V0.Test 
     [TestClass]
     public class DataServiceTest
     {
